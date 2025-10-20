@@ -1,0 +1,6 @@
+{
+  "project_id": "your_project_id",
+  "migrations": {
+    "path": "supabase/migrations"
+  }
+}
